@@ -39,19 +39,14 @@ Building on the foundational knowledge gained in the first course, this second c
 - Inspiration Sharing
 - Code editor
   - VS Code
-  - extensions: live preview, p5.vscode
+  - Extensions: live preview, p5.vscode
   - Settings
     - disable : Editor:Accept suggestion on commit character
-- Terminal
-  - /Applications/Utilities/Terminal
-  - cd, ls, mv, mkdir, pwd, clear, cp, and open
-  - tab for autoComplite
-  - up down arrow keys for your command history
 - Version control
   - What is version control?
     - Tracking changes
-    - Collaboration
-    - Restoring previous work
+    - Making collaborations
+    - Restoring previous version
   - Git
     - [Setup](https://docs.github.com/en/get-started/quickstart/set-up-git)
       - [Download](https://git-scm.com/downloads)
@@ -63,6 +58,11 @@ Building on the foundational knowledge gained in the first course, this second c
   - Git workflow
     - Clon, Commit, Push, Pull, and Pull Request
     - History of changes
+- Terminal
+  - /Applications/Utilities/Terminal
+  - cd, ls, mv, mkdir, pwd, clear, cp, and open
+  - tab for auto-complete
+  - up down arrow keys for your command history
 
 ### Week 2 -- HTML/CSS basic
 
