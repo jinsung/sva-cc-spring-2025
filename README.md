@@ -37,11 +37,11 @@ Building on the foundational knowledge gained in the first course, this second c
 ### Week 1 -- New Tools
 
 - Inspiration Sharing
-- Code editor
-  - VS Code
-  - Extensions: live preview, p5.vscode
-  - Settings
-    - disable : Editor:Accept suggestion on commit character
+- Terminal
+  - /Applications/Utilities/Terminal
+  - cd, ls, mv, mkdir, pwd, clear, cp, and open
+  - tab for auto-complete
+  - up down arrow keys for your command history
 - Version control
   - What is version control?
     - Tracking changes
@@ -58,11 +58,11 @@ Building on the foundational knowledge gained in the first course, this second c
   - Git workflow
     - Clon, Commit, Push, Pull, and Pull Request
     - History of changes
-- Terminal
-  - /Applications/Utilities/Terminal
-  - cd, ls, mv, mkdir, pwd, clear, cp, and open
-  - tab for auto-complete
-  - up down arrow keys for your command history
+- Code editor
+  - VS Code
+  - Extensions: live preview, p5.vscode
+  - Settings
+    - disable : Editor:Accept suggestion on commit character
 
 ### Week 2 -- HTML/CSS basic
 
