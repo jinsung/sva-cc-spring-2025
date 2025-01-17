@@ -51,6 +51,7 @@ Building on the foundational knowledge gained in the first course, this second c
     - [Setup](https://docs.github.com/en/get-started/quickstart/set-up-git)
       - [Download](https://git-scm.com/downloads)
       - git config --global user.email "YOUR_EMAIL"
+      - git config --global user.name "YOUR NAME"
       - git init, git add, git commit, git status, git log, git remote, git pull, and git push
   - Github
     - Signup on github.com
