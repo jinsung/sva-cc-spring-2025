@@ -52,6 +52,7 @@ Building on the foundational knowledge gained in the first course, this second c
       - [Download](https://git-scm.com/downloads)
       - git config --global user.email "YOUR_EMAIL"
       - git config --global user.name "YOUR NAME"
+      - git config http.postBuffer 524288000
       - git init, git add, git commit, git status, git log, git remote, git pull, and git push
   - Github
     - Signup on github.com
