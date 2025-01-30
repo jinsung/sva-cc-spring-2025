@@ -87,6 +87,11 @@ Building on the foundational knowledge gained in the first course, this second c
 ### Week 3 -- CSS & JSON & Javascript general features
 
 - Inspiration Share: Soo Park
+  - https://www.instagram.com/codeartgallery/
+  - https://www.instagram.com/code_rgb/
+  - https://www.instagram.com/creativecodeart/
+  - https://www.instagram.com/space.filler.art/
+  - https://whitney.org/exhibitions/harold-cohen-aaron?section=2&subsection=3
 - Webpage navigation
   - <main> tag
   - Selector
