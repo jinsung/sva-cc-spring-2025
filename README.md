@@ -86,14 +86,16 @@ Building on the foundational knowledge gained in the first course, this second c
 
 ### Week 3 -- CSS & JSON & Javascript general features
 
-- CSS
+- Webpag navigation
   - <main> tag
   - Selector
     - tag, class, id
     - select(), selectAll()
   - create{Tag}() & style()
     - chage stye events
-  - input event
+  - css
+    - display: flex
+    - JS events
 - JSON?
 - Arrow function expression
 - Promise, then, async, and await
