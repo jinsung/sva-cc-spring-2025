@@ -84,8 +84,16 @@ Building on the foundational knowledge gained in the first course, this second c
   - main and parant
   - Assignment: Create an interactive p5.js background for your webpage
 
-### Week 3 -- JSON & Javascript general features
+### Week 3 -- CSS & JSON & Javascript general features
 
+- CSS
+  - <main> tag
+  - Selector
+    - tag, class, id
+    - select(), selectAll()
+  - create{Tag}() & style()
+    - chage stye events
+  - input event
 - JSON?
 - Arrow function expression
 - Promise, then, async, and await
