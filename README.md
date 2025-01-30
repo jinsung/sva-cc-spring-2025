@@ -86,7 +86,8 @@ Building on the foundational knowledge gained in the first course, this second c
 
 ### Week 3 -- CSS & JSON & Javascript general features
 
-- Webpag navigation
+- Inspiration Share: Soo Park
+- Webpage navigation
   - <main> tag
   - Selector
     - tag, class, id
