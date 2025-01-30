@@ -4,17 +4,88 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.11.1/p5.js"></script>
     
     <style>
-      p {
-        background-color: pink;
+      body {
+        font-family: Arial, sans-serif;
+        margin: 0;
+        padding: 0;
+      }
+      .container {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+      }
+      .nav {
+        background-color: #333;
+        color: white;
+        width: 100%;
+        padding: 0.5em;
+      }
+      ul {
+        list-style-type: none;
+        padding: 0;
+      }
+      .nav ul {
+        display: flex;
+        justify-content: space-around;
+      }
+      .nav ul li {
+        cursor: pointer;
+      }
+      .content {
+        display: flex;
+        width: 100%;
+      }
+      .content .side-nav {
+        width: 150px;
+        background-color: #f4f4f4;
+        left: 0;
+        padding-left: 1em;
+        height: 100vh;
+      }
+      .content .side-nav ul li {
+        padding: 1em;
+        cursor: pointer;
+      }
+      .content .main-content {
+        padding: 1em;
+      }
+      .embeded-p5js {
+        width: 500px;
+        height: 500px;
       }
     </style>
   </head>
   <body>
+    <div class="container">
+      <div class="nav">
+        <ul>
+          <li>Home</li>
+          <li>About</li>
+          <li>Contact</li>
+        </ul>
+      </div>
+      <div class="content">
+        <div class="side-nav">
+          <ul>
+            <li class="side-nav-item" data-id="project_1">Project 1</li>
+            <li class="side-nav-item" data-id="project_2">Project 2</li>
+            <li class="side-nav-item" data-id="project_3">Project 3</li>
+          </ul>
+        </div>
+        <div class="main-content">
+          <div class="project project_1">
+            <main></main>
+          </div>
+          <div class="project project_2" hidden>
+            <iframe class="embeded-p5js" src="https://editor.p5js.org/jinsung/full/Fwv3qRO_y"></iframe>
+          </div>
+          <div class="project project_3" hidden>
+            <iframe class="embeded-p5js" src="https://editor.p5js.org/jinsung/full/zf8Mc4u9K"></iframe>
+          </div>
+        </div>
+      </div>
+    </div>
     
-    <h1>My styled page</h1>
-    <p>This is a paragraph of text.</p>
-    <p>This is another paragraph of text.</p>
-    <main></main>
     <script src="sketch.js"></script>
   </body>
 </html>
