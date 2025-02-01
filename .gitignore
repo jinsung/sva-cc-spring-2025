@@ -1,3 +1,6 @@
+# ignore big csv files
+*.csv
+
 # Logs
 logs
 *.log

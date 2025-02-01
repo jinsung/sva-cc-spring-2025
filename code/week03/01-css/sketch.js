@@ -5,7 +5,9 @@ function setup() {
 
   const sideNavItems = selectAll('.side-nav-item');
   for (let i = 0; i < sideNavItems.length; i++) {
-    sideNavItems[i].mouseOver(changeColor);
+    sideNavItems[i].mouseOver((element) =>{
+      changeColor(element);
+    });
     sideNavItems[i].mouseOut(changeColorBack);
     sideNavItems[i].mousePressed(selectItem);
   }
@@ -27,8 +29,8 @@ function selectItem() {
   console.log('Item selected', this);
 }
 
-function changeColor() {
-  this.style('color', 'red');
+function changeColor(element) {
+  element.style('color', 'red');
 }
 
 function changeColorBack() {
