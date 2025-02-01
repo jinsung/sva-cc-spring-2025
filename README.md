@@ -112,6 +112,7 @@ Building on the foundational knowledge gained in the first course, this second c
 
 ### Week 4 -- Node & Server side programming
 
+- Inspiration Share: Jing
 - [Free APIs](https://free-apis.github.io/#/categories)
 - Node and NPM
   - Install node
