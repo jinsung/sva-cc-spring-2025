@@ -102,6 +102,46 @@ Building on the foundational knowledge gained in the first course, this second c
   - css
     - display: flex
     - JS events
+
+### Week 4 -- Physics - Vector / Force
+
+- Inspiration Share: Jing
+- [Robert Hodgin](http://roberthodgin.com/)
+- [Robert Hodgin - Vimeo](https://vimeo.com/flight404/)
+- [football data api](https://rapidapi.com/api-sports/api/api-football)
+- Vector
+  - Vector vs Point
+  - [Magnitude, Direction, Add, Subtract, Multiply and Divide](https://editor.p5js.org/jinsung/sketches/BJDUbJpa7)
+- [Force = Acceleration x Mass](https://editor.p5js.org/jinsung/sketches/K_1gJXsf_)
+- [Gravity](https://editor.p5js.org/jinsung/sketches/L7CliUcrQ)
+- [Multiple Forces](https://editor.p5js.org/jinsung/sketches/KM9Ksfhn1)
+- [Friction](https://editor.p5js.org/jinsung/sketches/9-jH3bINn)
+
+### Week 5 -- Particle System
+
+- Data Viz Assignment Due
+- [Angry Particle?](https://editor.p5js.org/jinsung/sketches/B1d8CSJyE)
+- [Particle System](https://editor.p5js.org/jinsung/sketches/Gn1YNnTkn)
+- [Particle System / Noise](https://editor.p5js.org/jinsung/sketches/4wONJkuBy)
+- [Particle System / Repulse](https://editor.p5js.org/jinsung/sketches/VX43gPQuD)
+- [Particle System / Pixel Data](https://editor.p5js.org/jinsung/sketches/h-D0R-3-H)
+
+### Week 6 -- Phsics Engine
+
+- [Matter.js](https://brm.io/matter-js/)
+- Matter.js basics
+  - World, Engine, dynamic and staic Bodies
+- OOP - Inheritance
+- Physic homework
+
+### Week 7 -- Phsics Engine 2
+
+- Pinball game
+- Matter.js Constraint
+- Matter.js Mouse Constraint
+
+### Week 8 -- JSON & Javascript general features
+
 - JSON?
 - Arrow function expression
 - Promise, then, async, and await
@@ -110,9 +150,8 @@ Building on the foundational knowledge gained in the first course, this second c
 - [Try/Catch block](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/try...catch)
 - [Spread operator](https://fjolt.com/article/javascript-three-dots-spread-operator)
 
-### Week 4 -- Node & Server side programming
+### Week 9 -- Node & Server side programming
 
-- Inspiration Share: Jing
 - [Free APIs](https://free-apis.github.io/#/categories)
 - Node and NPM
   - Install node
@@ -121,7 +160,7 @@ Building on the foundational knowledge gained in the first course, this second c
   - Server side programming
   - [WebSocket](https://en.wikipedia.org/wiki/WebSocket)
 
-### Week 5 -- Data Visualization 1
+### Week 10 -- Data Visualization 1
 
 - [Aaron Koblin](https://www.aaronkoblin.com/)
 - Data file format (JSON, CSV)
@@ -138,45 +177,9 @@ Building on the foundational knowledge gained in the first course, this second c
 - citibike
   - Get a json file (2023-11-06.json or 2023-11-06-borough.json) from ./example/05/data/ to visualize
 
-### Week 6 -- Data Visualization 2
+### Week 11 -- Data Visualization 2
 
-### Week 7 -- Physics - Vector / Force
-
-- [Robert Hodgin](http://roberthodgin.com/)
-- [Robert Hodgin - Vimeo](https://vimeo.com/flight404/)
-- [football data api](https://rapidapi.com/api-sports/api/api-football)
-- Vector
-  - Vector vs Point
-  - [Magnitude, Direction, Add, Subtract, Multiply and Divide](https://editor.p5js.org/jinsung/sketches/BJDUbJpa7)
-- [Force = Acceleration x Mass](https://editor.p5js.org/jinsung/sketches/K_1gJXsf_)
-- [Gravity](https://editor.p5js.org/jinsung/sketches/L7CliUcrQ)
-- [Multiple Forces](https://editor.p5js.org/jinsung/sketches/KM9Ksfhn1)
-- [Friction](https://editor.p5js.org/jinsung/sketches/9-jH3bINn)
-
-### Week 8 -- Particle System
-
-- Data Viz Assignment Due
-- [Angry Particle?](https://editor.p5js.org/jinsung/sketches/B1d8CSJyE)
-- [Particle System](https://editor.p5js.org/jinsung/sketches/Gn1YNnTkn)
-- [Particle System / Noise](https://editor.p5js.org/jinsung/sketches/4wONJkuBy)
-- [Particle System / Repulse](https://editor.p5js.org/jinsung/sketches/VX43gPQuD)
-- [Particle System / Pixel Data](https://editor.p5js.org/jinsung/sketches/h-D0R-3-H)
-
-### Week 9 -- Phsics Engine
-
-- [Matter.js](https://brm.io/matter-js/)
-- Matter.js basics
-  - World, Engine, dynamic and staic Bodies
-- OOP - Inheritance
-- Physic homework
-
-### Week 10 -- Phsics Engine 2
-
-- Pinball game
-- Matter.js Constraint
-- Matter.js Mouse Constraint
-
-### Week 11 -- AI/ML Basic
+### Week 12 -- AI/ML Basic
 
 - Physic homework due
 - [AI, ML, Deep Learning](https://docs.google.com/document/d/1hew_j0rq9oWt6ockDzEDyGaRIz-pHS7HFHZyvnZqiKE/)
@@ -184,8 +187,6 @@ Building on the foundational knowledge gained in the first course, this second c
 - Deep Learning
 - [Neural network](https://www.3blue1brown.com/lessons/neural-networks)
 - [Teachable Machine](https://teachablemachine.withgoogle.com/)
-
-### Week 12 -- TBD
 
 ### Week 13 -- 1:1
 
