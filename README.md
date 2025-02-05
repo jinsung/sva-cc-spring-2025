@@ -108,7 +108,6 @@ Building on the foundational knowledge gained in the first course, this second c
 - Inspiration Share: Jing
 - [Robert Hodgin](http://roberthodgin.com/)
 - [Robert Hodgin - Vimeo](https://vimeo.com/flight404/)
-- [football data api](https://rapidapi.com/api-sports/api/api-football)
 - Vector
   - Vector vs Point
   - [Magnitude, Direction, Add, Subtract, Multiply and Divide](https://editor.p5js.org/jinsung/sketches/BJDUbJpa7)
@@ -119,7 +118,6 @@ Building on the foundational knowledge gained in the first course, this second c
 
 ### Week 5 -- Particle System
 
-- Data Viz Assignment Due
 - [Angry Particle?](https://editor.p5js.org/jinsung/sketches/B1d8CSJyE)
 - [Particle System](https://editor.p5js.org/jinsung/sketches/Gn1YNnTkn)
 - [Particle System / Noise](https://editor.p5js.org/jinsung/sketches/4wONJkuBy)
@@ -164,6 +162,10 @@ Building on the foundational knowledge gained in the first course, this second c
 
 - [Aaron Koblin](https://www.aaronkoblin.com/)
 - Data file format (JSON, CSV)
+- [football data api](https://rapidapi.com/api-sports/api/api-football)
+
+### Week 11 -- Data Visualization 2
+
 - Citibike Data converter process (optional)
   - citibike [data](https://s3.amazonaws.com/tripdata/index.html)
   - Instruction
@@ -176,12 +178,9 @@ Building on the foundational knowledge gained in the first course, this second c
     - (optional) node addBorough.js
 - citibike
   - Get a json file (2023-11-06.json or 2023-11-06-borough.json) from ./example/05/data/ to visualize
-
-### Week 11 -- Data Visualization 2
-
+ 
 ### Week 12 -- AI/ML Basic
 
-- Physic homework due
 - [AI, ML, Deep Learning](https://docs.google.com/document/d/1hew_j0rq9oWt6ockDzEDyGaRIz-pHS7HFHZyvnZqiKE/)
 - Leaning
 - Deep Learning
@@ -190,7 +189,6 @@ Building on the foundational knowledge gained in the first course, this second c
 
 ### Week 13 -- 1:1
 
-- AI/ML homework due
 - Schedule Sheet
 - Zoom Meeting
 
