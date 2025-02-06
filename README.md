@@ -106,6 +106,7 @@ Building on the foundational knowledge gained in the first course, this second c
 ### Week 4 -- Physics - Vector / Force
 
 - Inspiration Share: Jing
+  - https://www.instagram.com/junes_cloud?igsh=ZjFyeng1aXV1aTA5
 - [Robert Hodgin](http://roberthodgin.com/)
 - [Robert Hodgin - Vimeo](https://vimeo.com/flight404/)
 - Vector
