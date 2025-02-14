@@ -127,6 +127,7 @@ Building on the foundational knowledge gained in the first course, this second c
 
 ### Week 6 -- Phsics Engine
 
+- Inspiration Share: Peiming
 - [Matter.js](https://brm.io/matter-js/)
 - Matter.js basics
   - World, Engine, dynamic and staic Bodies
