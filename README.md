@@ -136,6 +136,7 @@ Building on the foundational knowledge gained in the first course, this second c
 
 ### Week 7 -- Phsics Engine 2
 
+- Inspiration Share: Sofia
 - Pinball game
 - Matter.js Constraint
 - Matter.js Mouse Constraint
