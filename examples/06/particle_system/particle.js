@@ -17,13 +17,14 @@ class Particle {
         this.acc.mult(0);
         this.vel.mult(this.friction);
         this.brightness = brightness;
+        this.r = map(this.brightness, 0, 255, 2, 15);
         //this.bounce();
     }
 
     display() {
         noStroke();
         const alpha = map(this.age, 0, this.maxAge, 255, 0);
-        fill(this.brightness, alpha);
+        fill(pow(this.brightness, 1.1), alpha);
         circle(this.pos.x, this.pos.y, this.r * 2);
     }
 
