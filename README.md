@@ -143,6 +143,7 @@ Building on the foundational knowledge gained in the first course, this second c
 
 ### Week 8 -- JSON & Javascript general features
 
+- Inspiration Share: James
 - JSON?
 - Arrow function expression
 - Promise, then, async, and await
