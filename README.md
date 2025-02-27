@@ -122,24 +122,24 @@ Building on the foundational knowledge gained in the first course, this second c
 - [Angry Particle?](https://editor.p5js.org/jinsung/sketches/B1d8CSJyE)
 - [Particle System](https://editor.p5js.org/jinsung/sketches/Gn1YNnTkn)
 - [Particle System / Noise](https://editor.p5js.org/jinsung/sketches/4wONJkuBy)
-- [Particle System / Repulse](https://editor.p5js.org/jinsung/sketches/VX43gPQuD)
-- [Particle System / Pixel Data](https://editor.p5js.org/jinsung/sketches/h-D0R-3-H)
 
 ### Week 6 -- Phsics Engine
 
 - Inspiration Share: Peiming
-- [Matter.js](https://brm.io/matter-js/)
-- Matter.js basics
-  - World, Engine, dynamic and staic Bodies
 - OOP - Inheritance
-- Physic homework
+- [Particle System / Repulse](https://editor.p5js.org/jinsung/sketches/VX43gPQuD)
+- [Particle System / Pixel Data](https://editor.p5js.org/jinsung/sketches/h-D0R-3-H)
 
 ### Week 7 -- Phsics Engine 2
 
 - Inspiration Share: Sofia
+- [Matter.js](https://brm.io/matter-js/)
+- Matter.js basics
+  - World, Engine, dynamic and staic Bodies
 - Pinball game
 - Matter.js Constraint
 - Matter.js Mouse Constraint
+- Homework - Physic simulation
 
 ### Week 8 -- JSON & Javascript general features
 
