@@ -136,14 +136,14 @@ Building on the foundational knowledge gained in the first course, this second c
 - [Matter.js](https://brm.io/matter-js/)
 - Matter.js basics
   - World, Engine, dynamic and staic Bodies
-- Pinball game
-- Matter.js Constraint
-- Matter.js Mouse Constraint
 - Homework - Physic simulation
 
 ### Week 8 -- JSON & Javascript general features
 
 - Inspiration Share: James
+- Pinball game
+- Matter.js Constraint
+- Matter.js Mouse Constraint
 - JSON?
 - Arrow function expression
 - Promise, then, async, and await
