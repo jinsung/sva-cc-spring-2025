@@ -123,24 +123,22 @@ Building on the foundational knowledge gained in the first course, this second c
 - [Particle System](https://editor.p5js.org/jinsung/sketches/Gn1YNnTkn)
 - [Particle System / Noise](https://editor.p5js.org/jinsung/sketches/4wONJkuBy)
 
-### Week 6 -- Phsics Engine
+### Week 6 -- Particle System 2
 
 - Inspiration Share: Peiming
 - OOP - Inheritance
 - [Particle System / Repulse](https://editor.p5js.org/jinsung/sketches/VX43gPQuD)
 - [Particle System / Pixel Data](https://editor.p5js.org/jinsung/sketches/h-D0R-3-H)
 
-### Week 7 -- Phsics Engine 2
+### Week 7 -- Phsics Engine 1
 
-- Inspiration Share: Sofia
 - [Matter.js](https://brm.io/matter-js/)
 - Matter.js basics
   - World, Engine, dynamic and staic Bodies
 - Homework - Physic simulation
 
-### Week 8 -- JSON & Javascript general features
+### Week 8 -- Phsics Engine 2
 
-- Inspiration Share: James
 - Pinball game
 - Matter.js Constraint
 - Matter.js Mouse Constraint
@@ -154,6 +152,7 @@ Building on the foundational knowledge gained in the first course, this second c
 
 ### Week 9 -- Node & Server side programming
 
+- Inspiration Share: Sofia
 - [Free APIs](https://free-apis.github.io/#/categories)
 - Node and NPM
   - Install node
@@ -164,6 +163,7 @@ Building on the foundational knowledge gained in the first course, this second c
 
 ### Week 10 -- Data Visualization 1
 
+- Inspiration Share: James
 - [Aaron Koblin](https://www.aaronkoblin.com/)
 - Data file format (JSON, CSV)
 - [football data api](https://rapidapi.com/api-sports/api/api-football)
