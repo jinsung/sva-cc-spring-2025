@@ -18,10 +18,8 @@ function setup() {
     if (ball && !ball.isDead()) {
       return;
     }
-    throwABall(random(25, width-25), 0)
+    throwABall(random(50, width-50), 0)
   }, 1000);
-
- 
 }
 
 function setupCollisionEvents() {
