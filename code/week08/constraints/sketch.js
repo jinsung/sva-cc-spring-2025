@@ -7,7 +7,6 @@ function setup() {
   rectMode(CENTER);
   engine = Matter.Engine.create();
   setupChain();
-  setupMouse();
 }
 
 function setupChain() {
