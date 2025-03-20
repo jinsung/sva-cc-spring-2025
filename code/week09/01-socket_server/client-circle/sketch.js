@@ -2,7 +2,6 @@ let ws;
 
 function setup() {
   const canvas = createCanvas(windowWidth, windowHeight);
-  canvas.addClass('background');
   background(220);
 
   ws = new WebSocket("ws://localhost:3000");

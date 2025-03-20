@@ -1,15 +1,14 @@
 import { WebSocketServer } from "ws";
 
-const wss = new WebSocketServer({port: 3000});
+let port = 3000;
+const wss = new WebSocketServer({port: port});
 
 wss.on('connection', ws => {
   ws.on('message', data => {
     let jsonData = JSON.parse(data);
-    //console.log(JSON.stringify(jsonData));
-    wss.broadcast(JSON.stringify(jsonData));
+    let jsonStr = JSON.stringify(jsonData);
+    wss.clients.forEach(client => client.send(jsonStr));
   });
 });
 
-wss.broadcast = function(data) {
-  wss.clients.forEach(client => client.send(data));
-};
+console.log('web socket server runnon on ' + port);
