@@ -24,7 +24,7 @@ function mouseDragged() {
   sendData();
 }
 
-function onMousePressed() {
+function mousePressed() {
   sendData();
 }
 
