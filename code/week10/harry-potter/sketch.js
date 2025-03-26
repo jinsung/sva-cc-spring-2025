@@ -2,7 +2,7 @@ let spells;
 let input;
 
 async function setup() {
-  createCanvas(600, 400);
+  createCanvas(400, 600);
   
   const spellsRes = await fetch('https://hp-api.onrender.com/api/spells');
   spells = await spellsRes.json();
@@ -19,7 +19,7 @@ function handleInput() {
   const spellName = input.value().toLowerCase();
   const matchedSpells = spells.filter(s => s.name.toLowerCase().includes(spellName));
   
-  if (matchedSpells.length > 0) {
+  if (spellName.length > 0 && matchedSpells.length > 0) {
     background(240);
     fill(0);
     textSize(16);
