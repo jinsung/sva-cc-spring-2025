@@ -144,11 +144,6 @@ Building on the foundational knowledge gained in the first course, this second c
 - Matter.js Mouse Constraint
 - JSON?
 - Arrow function expression
-- Promise, then, async, and await
-- More of Array
-  - forEach(), sort(), filter(), map() etc.
-- [Try/Catch block](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/try...catch)
-- [Spread operator](https://fjolt.com/article/javascript-three-dots-spread-operator)
 
 ### Week 9 -- Node & Server side programming
 
@@ -165,8 +160,11 @@ Building on the foundational knowledge gained in the first course, this second c
 
 - Inspiration Share: James
 - [Aaron Koblin](https://www.aaronkoblin.com/)
-- Data file format (JSON, CSV)
-- [football data api](https://rapidapi.com/api-sports/api/api-football)
+- Promise, then, async, and await
+- More of Array
+  - forEach(), sort(), filter(), map() etc.
+- [Try/Catch block](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/try...catch)
+- [Spread operator](https://fjolt.com/article/javascript-three-dots-spread-operator)
 
 ### Week 11 -- Data Visualization 2
 
