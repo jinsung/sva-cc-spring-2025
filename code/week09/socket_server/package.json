@@ -1,5 +1,5 @@
 {
-  "name": "04-socket_server",
+  "name": "socket_server",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
