@@ -179,6 +179,7 @@ Building on the foundational knowledge gained in the first course, this second c
  
 ### Week 12 -- AI/ML Basic
 
+- Inspiration Share: Eugene
 - [AI, ML, Deep Learning](https://docs.google.com/document/d/1hew_j0rq9oWt6ockDzEDyGaRIz-pHS7HFHZyvnZqiKE/)
 - Leaning
 - Deep Learning
