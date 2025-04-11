@@ -188,7 +188,7 @@ Building on the foundational knowledge gained in the first course, this second c
 
 ### Week 13 -- 1:1
 
-- Schedule Sheet
+- [Schedule Sheet](https://docs.google.com/spreadsheets/d/1RM_IWuQNqJFz34bqcEbCxt0L1fZJDPHQRVgSmsNZ5eY/edit?gid=0#gid=0)
 - Zoom Meeting
 
 ### Week 14 -- 1:1
