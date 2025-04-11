@@ -189,12 +189,12 @@ Building on the foundational knowledge gained in the first course, this second c
 ### Week 13 -- 1:1
 
 - [Schedule Sheet](https://docs.google.com/spreadsheets/d/1RM_IWuQNqJFz34bqcEbCxt0L1fZJDPHQRVgSmsNZ5eY/edit?gid=0#gid=0)
-- Zoom Meeting
+- [Zoom Meeting](https://sva.zoom.us/j/87875025571?pwd=2R0zLDVu4Rq5ACa28SaIKnb2joLUdw.1)
 
 ### Week 14 -- 1:1
 
-- Schedule Sheet
-- Zoom Meeting
+- [Schedule Sheet](https://docs.google.com/spreadsheets/d/1XH-w1b3oBM1sm01xphkka8o9AEE29IzV_ck_wtUszBw/edit?gid=0#gid=0)
+- [Zoom Meeting](https://sva.zoom.us/j/83938011520?pwd=oZVXSj2TgbZzgOiuvy7iEBX6oEF6Or.1)
 
 ### Week 15 -- Final Presentation
 
